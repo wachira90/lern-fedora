@@ -1,6 +1,13 @@
 # lern-fedora
 lern-fedora
 
+
+## set hostname
+
+````
+hostnamectl set-hostname pcd.inno.local
+````
+
 ## set ipaddress
 
 ````
